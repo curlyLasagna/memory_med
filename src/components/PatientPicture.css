@@ -1,0 +1,6 @@
+.patient-picture {
+  height: 30vmin;
+  pointer-events: none;
+  border-radius: 45%;
+  border: 2px solid transparent;
+}
